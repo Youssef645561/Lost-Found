@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Common/Common.csproj" Id="d4d35670-3ba4-4a33-bfbb-782f48330fe9" />
+  <Project Path="../Findly.BLL/Findly.BLL.csproj" />
+  <Project Path="../Findly.DAL/Findly.DAL.csproj" />
+  <Project Path="Findly.API.csproj" />
+</Solution>
