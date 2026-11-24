@@ -1,0 +1,12 @@
+D:\Users\Y O S E F\Desktop\Programming\VS community\Programming advices\Projects\Windows forms\Code Generator\Common\bin\Debug\Common.dll
+D:\Users\Y O S E F\Desktop\Programming\VS community\Programming advices\Projects\Windows forms\Code Generator\Common\bin\Debug\Common.pdb
+D:\Users\Y O S E F\Desktop\Programming\VS community\Programming advices\Projects\Windows forms\Code Generator\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\Users\Y O S E F\Desktop\Programming\VS community\Programming advices\Projects\Windows forms\Code Generator\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Users\Y O S E F\Desktop\Programming\VS community\Programming advices\Projects\Windows forms\Code Generator\Common\obj\Debug\Common.dll
+D:\Users\Y O S E F\Desktop\Programming\VS community\Programming advices\Projects\Windows forms\Code Generator\Common\obj\Debug\Common.pdb
+D:\Users\Y O S E F\Desktop\Programming\VS community\Programming advices\Projects\Library\Common\bin\Debug\Common.dll
+D:\Users\Y O S E F\Desktop\Programming\VS community\Programming advices\Projects\Library\Common\bin\Debug\Common.pdb
+D:\Users\Y O S E F\Desktop\Programming\VS community\Programming advices\Projects\Library\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\Users\Y O S E F\Desktop\Programming\VS community\Programming advices\Projects\Library\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Users\Y O S E F\Desktop\Programming\VS community\Programming advices\Projects\Library\Common\obj\Debug\Common.dll
+D:\Users\Y O S E F\Desktop\Programming\VS community\Programming advices\Projects\Library\Common\obj\Debug\Common.pdb
